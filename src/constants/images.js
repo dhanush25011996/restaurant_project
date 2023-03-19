@@ -20,6 +20,11 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import mustaq from '../assets/mustaq.png';
+import mustaq_chef from '../assets/mustaq_chef.png';
+import M_mlogo from '../assets/M_mlogo.png';
+import briyani from '../assets/briyani.png';
+import kebab from '../assets/kebab.png';
 
 export default {
   bg,
@@ -44,4 +49,9 @@ export default {
   sign,
   quote,
   gericht,
+  mustaq,
+  mustaq_chef,
+  M_mlogo,
+  briyani,
+  kebab,
 };

@@ -2,57 +2,57 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Shawarma1',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Shawarma2',
+    price: '₹100',
+    tags: 'Taste | Juicy',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Shawarma3',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Shawarma4',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Shawarma5',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Kebab1',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: 'Kebab2',
+    price: '₹100',
+    tags: 'Taste | Juicy',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Kebab3',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Kebab4',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Kebab5',
+    price: '₹100',
+    tags: 'Taste | Spicy',
   },
 ];
 
